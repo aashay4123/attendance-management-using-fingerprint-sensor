@@ -1,0 +1,5 @@
+http://api.pushingbox.com/pushingbox?devid=Youre_devid&Your_Command
+
+example :
+
+http://api.pushingbox.com/pushingbox?devid=abcd1234efgh5678&LDR=200&Button=Press
